@@ -1,0 +1,66 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "Lácteos",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ecestaticos.com%2Fimagestatic%2Fclipping%2Fccc%2F82f%2Fccc82fc8987674abb284bda5d45642c4%2Fel-debate-de-los-lacteos-divide-el-dia-nacional-de-la-nutricion.jpg%3Fmtime%3D1558965765&f=1&nofb=1",
+      "description": "Alergia a lactose dá diarreia"
+    },
+    {
+      "id": 2,
+      "name": "Mercearia",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fogimg.infoglobo.com.br%2Fin%2F24040092-dc5-af7%2FFT1086A%2F652%2Fxmuseudopaiseia.jpg.pagespeed.ic.71_D5NmnKq.jpg&f=1&nofb=1",
+      "description": "No céu tem pão?"
+    },
+    {
+      "id": 3,
+      "name": "Doces",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.elo7.com.br%2Fproduct%2Fzoom%2F1B78664%2Fdocs-finos-simples-docesfinos.jpg&f=1&nofb=1",
+      "description": "Onde tá o dinheiro do pão, Murillo?"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "idSection": 1,
+      "name": "Queijos",
+      "description": "Minerin é top",
+      "total": 24
+    },
+    {
+      "id": 2,
+      "idSection": 1,
+      "name": "Manteigas",
+      "description": "Derretida no pãozin",
+      "total": 45
+    },
+    {
+      "id": 3,
+      "idSection": 1,
+      "name": "Fermentados",
+      "description": "Tem lactobacilos vivos?",
+      "total": 56
+    },
+    {
+      "id": 4,
+      "idSection": 2,
+      "name": "Cacetinho",
+      "description": "O pão que o Cris gosta",
+      "total": 24
+    },
+    {
+      "id": 5,
+      "idSection": 2,
+      "name": "Bisnaguinha",
+      "description": "Sem esse daqui o Cris não aceita o cacetinho",
+      "total": 45
+    },
+    {
+      "id": 6,
+      "idSection": 3,
+      "name": "Chocolate",
+      "description": "Não é o Cirillo",
+      "total": 56
+    }
+  ]
+}
